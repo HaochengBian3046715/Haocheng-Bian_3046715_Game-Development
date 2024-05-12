@@ -1,0 +1,19 @@
+Unity Cinemachine
+Unity 2d
+Unity Probuilder
+Unity Recorder
+Unity Shader Graph 
+Unity Text Mesh Pro 
+
+
+=============================
+
+https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
+https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418
+https://assetstore.unity.com/packages/3d/props/potions-coin-and-box-of-pandora-pack-71778
+https://assetstore.unity.com/packages/3d/environments/sci-fi/free-demo-of-low-poly-space-alien-worlds-3d-asset-pack-258683
+https://assetstore.unity.com/packages/3d/characters/humanoids/humans/adventure-character-201384#content
+
+
+=============
+Mixamo for Animations 
